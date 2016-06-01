@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-proxy-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToruHyuga/nodejs-proxy-filter.git"
+  },
+  "author": "Hyuga Toru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToruHyuga/nodejs-proxy-filter/issues"
+  },
+  "homepage": "https://github.com/ToruHyuga/nodejs-proxy-filter#readme"
+}
